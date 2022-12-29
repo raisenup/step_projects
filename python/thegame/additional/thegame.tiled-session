@@ -1,0 +1,58 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "sprites/tileset/tileset.tsx",
+    "expandedProjectPaths": [
+        "sprites",
+        "sprites/tileset",
+        "."
+    ],
+    "fileStates": {
+        "0x72_DungeonTilesetII_v1.4.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 4,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 279.375,
+                "y": 60.125
+            }
+        },
+        "sprites/tileset/tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Илья/step_projects/python/thegame/map",
+    "last.externalTilesetPath": "C:/Users/Илья/step_projects/python/thegame/sprites/tileset",
+    "last.imagePath": "C:/Users/Илья/step_projects/python/thegame/sprites/tileset",
+    "map.height": 9,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 9,
+    "openFiles": [
+        "map.tmx",
+        "sprites/tileset/tileset.tsx"
+    ],
+    "project": "thegame.tiled-project",
+    "recentFiles": [
+        "map.tmx",
+        "sprites/tileset/tileset.tsx",
+        "0x72_DungeonTilesetII_v1.4.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
