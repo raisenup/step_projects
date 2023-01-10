@@ -5,18 +5,18 @@ using namespace std;
 void ex_1()
 {
 	int year, days;
-	cout << "Input year -> " << endl;
+	cout << "Input year -> ";
 	cin >> year;
-	days = 366 - year % 2;
+	days = 365 + (year % 4 == 0);
 	cout << days << endl;
 }
 
 void ex_2()
 {
 	int grn, kop;
-	cout << "Input grn -> " << endl;
+	cout << "Input grn -> ";
 	cin >> grn;
-	cout << "Input kop -> " << endl;
+	cout << "Input kop -> ";
 	cin >> kop;
 	if (kop >= 100)
 	{
@@ -64,7 +64,7 @@ void ex_5()
 int main()
 {
 	int ex_num = 0;
-	cout << "Input exercise number: " << endl;
+	cout << "Input exercise number -> ";
 	cin >> ex_num;
 	switch (ex_num)
 	{
@@ -87,5 +87,4 @@ int main()
 
 	return 0;
 }
-
 
