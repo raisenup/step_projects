@@ -1,0 +1,4 @@
+﻿  exercises.cpp
+C:\Users\Илья\step_projects\cpp\21.01_h\exercises.cpp(64,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\21.01_h\exercises.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  21.01_h.vcxproj -> C:\Users\Илья\step_projects\cpp\21.01_h\x64\Debug\21.01_h.exe
