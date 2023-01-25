@@ -12,8 +12,8 @@ def ex_1():
             for j in range(2, int(num1//2+1)):
                 if num1 % j == 0:
                     break
-            else:
-                nums.append(num1)
+                else:
+                    nums.append(num1)
             num1 += 1
         for k in nums:
             if k < 2:

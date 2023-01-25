@@ -1,0 +1,12 @@
+#pragma once
+#ifndef EXERCISES_H
+#define EXERCISES_H
+
+void ex_1();
+void ex_2();
+void ex_3();
+
+#endif // !EXERCISES_H
+
+
+
