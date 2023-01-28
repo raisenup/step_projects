@@ -1,0 +1,23 @@
+﻿  excercises.cpp
+C:\Users\Илья\step_projects\cpp\28.01\excercises.cpp(108,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\28.01\excercises.cpp(38,28): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Илья\step_projects\cpp\28.01\excercises.cpp(115): message : see reference to function template instantiation 'T arr_init<int>(T [][5],const int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Илья\step_projects\cpp\28.01\excercises.cpp(38,28): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+C:\Users\Илья\step_projects\cpp\28.01\excercises.cpp(128): message : see reference to function template instantiation 'T arr_init<char>(T [][5],const int)' being compiled
+          with
+          [
+              T=char
+          ]
+  28.01.vcxproj -> C:\Users\Илья\step_projects\cpp\28.01\x64\Debug\28.01.exe
