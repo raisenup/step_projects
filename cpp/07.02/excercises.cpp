@@ -68,4 +68,3 @@ int ex_5(int *arr, int length)
 	}
 	return sum;
 }
-

@@ -1,0 +1,4 @@
+﻿  excercises.cpp
+C:\Users\Илья\step_projects\cpp\18.02\excercises.cpp(69,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\18.02\excercises.cpp(90): warning C4715: 'ex_1': not all control paths return a value
+  18.02.vcxproj -> C:\Users\Илья\step_projects\cpp\18.02\x64\Debug\18.02.exe

@@ -1,0 +1,8 @@
+﻿  excercises.cpp
+C:\Users\Илья\step_projects\cpp\11.02\excercises.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\11.02\excercises.cpp(83,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\11.02\excercises.cpp(122,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\11.02\excercises.cpp(154,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\11.02\excercises.cpp(216,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\11.02\excercises.cpp(242,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  11.02.vcxproj -> C:\Users\Илья\step_projects\cpp\11.02\x64\Debug\11.02.exe

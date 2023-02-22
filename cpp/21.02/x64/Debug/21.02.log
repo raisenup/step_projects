@@ -1,0 +1,3 @@
+﻿  excercises.cpp
+C:\Users\Илья\step_projects\cpp\21.02\excercises.cpp(79,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  21.02.vcxproj -> C:\Users\Илья\step_projects\cpp\21.02\x64\Debug\21.02.exe

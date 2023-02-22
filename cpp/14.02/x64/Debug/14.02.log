@@ -1,0 +1,36 @@
+﻿  excercises.cpp
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(171,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(182,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(193,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(204,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(21,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(174): message : see reference to function template instantiation 'void print_arr<int>(T **)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(39,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(176): message : see reference to function template instantiation 'T **push_back<int>(T **)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(66,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(187): message : see reference to function template instantiation 'T **push_forward<int>(T **)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(94,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(198): message : see reference to function template instantiation 'T **insert<int>(T **,int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(135,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Илья\step_projects\cpp\14.02\excercises.cpp(209): message : see reference to function template instantiation 'T **delete_row<int>(T **,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  14.02.vcxproj -> C:\Users\Илья\step_projects\cpp\14.02\x64\Debug\14.02.exe
