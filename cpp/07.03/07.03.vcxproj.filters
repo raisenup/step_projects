@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="core">
+      <UniqueIdentifier>{d88e5246-a296-4c0c-9e19-2ff372505b3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{0ed995c5-1110-4d1f-b108-4de938f524d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data">
+      <UniqueIdentifier>{a763531e-6e6c-461f-b0ea-569cbedbc8ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\lib">
+      <UniqueIdentifier>{0f3d63c5-f4bf-4f55-a434-4c504de3c2ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\laundry">
+      <UniqueIdentifier>{094285c2-e123-4bd7-a748-1d58869c077b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\laundry_provider">
+      <UniqueIdentifier>{c888bf76-aab0-47e3-9ca9-8ff8c211ee07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\iron">
+      <UniqueIdentifier>{0ccbf8f8-23d5-4934-8eb0-0da78a0b79f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\iron_provider">
+      <UniqueIdentifier>{5e442ae1-7e3b-4ccc-9f08-57b0c7f9ea93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\boiler">
+      <UniqueIdentifier>{3d68c8ff-f8f4-4775-ba5b-b765a97bd48d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\boiler_provider">
+      <UniqueIdentifier>{ab26b88b-12a5-4d4a-9a29-55ed5802497c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="laundry.cpp">
+      <Filter>core\laundry</Filter>
+    </ClCompile>
+    <ClCompile Include="laundry_provider.cpp">
+      <Filter>core\laundry_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="iron.cpp">
+      <Filter>core\iron</Filter>
+    </ClCompile>
+    <ClCompile Include="iron_provider.cpp">
+      <Filter>core\iron_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="boiler.cpp">
+      <Filter>core\boiler</Filter>
+    </ClCompile>
+    <ClCompile Include="boiler_provider.cpp">
+      <Filter>core\boiler_provider</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib.h">
+      <Filter>core\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="laundry.h">
+      <Filter>core\laundry</Filter>
+    </ClInclude>
+    <ClInclude Include="laundry_provider.h">
+      <Filter>core\laundry_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="iron.h">
+      <Filter>core\iron</Filter>
+    </ClInclude>
+    <ClInclude Include="iron_provider.h">
+      <Filter>core\iron_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="boiler.h">
+      <Filter>core\boiler</Filter>
+    </ClInclude>
+    <ClInclude Include="boiler_provider.h">
+      <Filter>core\boiler_provider</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

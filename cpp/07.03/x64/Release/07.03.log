@@ -1,0 +1,8 @@
+﻿  laundry.cpp
+  laundry_provider.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 131 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  07.03.vcxproj -> C:\Users\Илья\step_projects\cpp\07.03\x64\Release\07.03.exe
