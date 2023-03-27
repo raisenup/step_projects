@@ -1,0 +1,3 @@
+Same line
+NOT the same line
+and another different line

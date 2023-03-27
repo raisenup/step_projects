@@ -1,0 +1,6 @@
+Statistics of rfile.txt:
+	Symbols : 25
+	Lines : 2
+	Vowels : 3
+	Consonants : 12
+	Numbers : 10

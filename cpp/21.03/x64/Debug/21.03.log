@@ -1,0 +1,3 @@
+﻿  excercises.cpp
+C:\Users\Илья\step_projects\cpp\21.03\excercises.cpp(44,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  21.03.vcxproj -> C:\Users\Илья\step_projects\cpp\21.03\x64\Debug\21.03.exe

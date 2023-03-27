@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{253d51c5-5dd6-4641-b1dd-baca0ee0b997}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files">
+      <UniqueIdentifier>{df2026f3-b236-434e-a7a5-1af1b3bc38f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\ex_1">
+      <UniqueIdentifier>{a6475254-c3af-442f-af7d-deb701da5c9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\ex_2">
+      <UniqueIdentifier>{51c7bbbf-d87d-4115-a4e5-a635c2dd94a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files\ex_3">
+      <UniqueIdentifier>{bcc42ffe-0005-4944-a789-afaaa64d4f7a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="excercises.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exercises.h">
+      <Filter>main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="files\ex_1\first.txt">
+      <Filter>files\ex_1</Filter>
+    </Text>
+    <Text Include="files\ex_1\second.txt">
+      <Filter>files\ex_1</Filter>
+    </Text>
+    <Text Include="files\ex_2\rfile.txt">
+      <Filter>files\ex_2</Filter>
+    </Text>
+    <Text Include="files\ex_2\wfile.txt">
+      <Filter>files\ex_2</Filter>
+    </Text>
+    <Text Include="files\ex_3\rfile.txt">
+      <Filter>files\ex_3</Filter>
+    </Text>
+    <Text Include="files\ex_3\wfile.txt">
+      <Filter>files\ex_3</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
