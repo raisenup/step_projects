@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="data">
+      <UniqueIdentifier>{c03571cc-4fa7-41a2-bbb5-8a5dfb828571}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core">
+      <UniqueIdentifier>{9bd09bd7-2e5f-413d-91ec-de9265c8c8a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\models">
+      <UniqueIdentifier>{2a50f55f-caf0-4a04-b854-15b020a58463}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{06f7b9cf-4ee2-42a2-8bd8-218e2e8060d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui">
+      <UniqueIdentifier>{bbbd87d1-9c70-4788-9202-e86c6a7f8461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui\screen">
+      <UniqueIdentifier>{a013a8e9-e9ab-4cfd-bdef-a3d948edf5fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui\screen\clientScreen">
+      <UniqueIdentifier>{6f53e022-7a01-4fa5-9df0-fa05ff720976}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>core\models</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>core\models</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountProvider.cpp">
+      <Filter>core\models</Filter>
+    </ClCompile>
+    <ClCompile Include="UserProvider.cpp">
+      <Filter>core\models</Filter>
+    </ClCompile>
+    <ClCompile Include="Phone.cpp">
+      <Filter>core\models</Filter>
+    </ClCompile>
+    <ClCompile Include="PhoneProvider.cpp">
+      <Filter>core\models</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="library.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Phone.h">
+      <Filter>core\models</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>core\models</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>core\models</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>ui\screen</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientScreen.h">
+      <Filter>ui\screen\clientScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="UserProvider.h">
+      <Filter>core\models</Filter>
+    </ClInclude>
+    <ClInclude Include="PhoneProvider.h">
+      <Filter>core\models</Filter>
+    </ClInclude>
+    <ClInclude Include="AccountProvider.h">
+      <Filter>core\models</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\phonedata.csv">
+      <Filter>data</Filter>
+    </None>
+    <None Include="data\userdata.csv">
+      <Filter>data</Filter>
+    </None>
+  </ItemGroup>
+</Project>
