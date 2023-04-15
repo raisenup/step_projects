@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{281b4fd4-5197-474a-ad09-47ef961b667c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files">
+      <UniqueIdentifier>{a5440128-aa8f-4963-80ee-eb8db0f28f89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exercises.h">
+      <Filter>main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="rfile.txt">
+      <Filter>files</Filter>
+    </Text>
+    <Text Include="wfile.txt">
+      <Filter>files</Filter>
+    </Text>
+    <Text Include="merged_file.txt">
+      <Filter>files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

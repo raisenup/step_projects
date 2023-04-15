@@ -1,0 +1,5 @@
+﻿  exercises.cpp
+C:\Users\illya\step_projects\cpp\04.04_h\exercises.cpp(98,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  04.04_h.vcxproj -> C:\Users\illya\step_projects\cpp\04.04_h\x64\Debug\04.04_h.exe

@@ -1,0 +1,5 @@
+there is some text here
+123  // some comment to remove
+// another comment
+1234  // and another comment
+and some text here, 567
