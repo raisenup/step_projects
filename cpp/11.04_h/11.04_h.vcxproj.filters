@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{4561dec4-e38b-422f-92f5-d3ec374c490a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core">
+      <UniqueIdentifier>{95b92c6a-04c5-4e28-9716-c563832787a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\student">
+      <UniqueIdentifier>{f51ab449-f058-4471-92d8-0e1348485b19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\student\student_provider">
+      <UniqueIdentifier>{d657a7f3-c3b8-4c11-a559-35b1445c6795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files">
+      <UniqueIdentifier>{1a2ac539-6d3f-41ac-9d33-1c0fcf7494ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\car">
+      <UniqueIdentifier>{eeaaf3a9-895c-40c1-b451-59bf7412ea3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\car\car_provider">
+      <UniqueIdentifier>{b793a578-0795-4a8d-baa9-02db9a3e0fef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\good">
+      <UniqueIdentifier>{7fbe7923-9d4d-4298-8dd2-689956328a29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\good\good_provider">
+      <UniqueIdentifier>{171967a7-79df-4e17-bd61-d04700d2d1f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\weather">
+      <UniqueIdentifier>{a5b752d6-d7d5-43b6-8f40-4c47b133666f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\weather\weather_provider">
+      <UniqueIdentifier>{5617cc7f-02b2-458f-acf8-ac418f8d364e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\book">
+      <UniqueIdentifier>{c9d2c598-30f6-4a77-8a6c-a8cf612862ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\book\book_provider">
+      <UniqueIdentifier>{18e995a0-6eeb-4e43-804d-fa23af14a931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\team">
+      <UniqueIdentifier>{57dc07ff-66d3-47c4-8283-87d5187861c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\team\team_provider">
+      <UniqueIdentifier>{aea2c051-cd7f-464b-a97f-11b9c10d4ae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\city">
+      <UniqueIdentifier>{41d32109-8f1b-4466-8897-135d843379c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core\city\city_provider">
+      <UniqueIdentifier>{f99eab81-b87b-4a89-8a85-0a1a185b2d44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="student.cpp">
+      <Filter>core\student</Filter>
+    </ClCompile>
+    <ClCompile Include="student_provider.cpp">
+      <Filter>core\student\student_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="car.cpp">
+      <Filter>core\car</Filter>
+    </ClCompile>
+    <ClCompile Include="car_provider.cpp">
+      <Filter>core\car\car_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="good.cpp">
+      <Filter>core\good</Filter>
+    </ClCompile>
+    <ClCompile Include="good_provider.cpp">
+      <Filter>core\good\good_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="weather.cpp">
+      <Filter>core\weather</Filter>
+    </ClCompile>
+    <ClCompile Include="weather_provider.cpp">
+      <Filter>core\weather\weather_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="book.cpp">
+      <Filter>core\book</Filter>
+    </ClCompile>
+    <ClCompile Include="book_provider.cpp">
+      <Filter>core\book\book_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="team.cpp">
+      <Filter>core\team</Filter>
+    </ClCompile>
+    <ClCompile Include="team_provider.cpp">
+      <Filter>core\team\team_provider</Filter>
+    </ClCompile>
+    <ClCompile Include="city.cpp">
+      <Filter>core\city</Filter>
+    </ClCompile>
+    <ClCompile Include="city_provider.cpp">
+      <Filter>core\city\city_provider</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="student.h">
+      <Filter>core\student</Filter>
+    </ClInclude>
+    <ClInclude Include="student_provider.h">
+      <Filter>core\student\student_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="car.h">
+      <Filter>core\car</Filter>
+    </ClInclude>
+    <ClInclude Include="car_provider.h">
+      <Filter>core\car\car_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="good.h">
+      <Filter>core\good</Filter>
+    </ClInclude>
+    <ClInclude Include="good_provider.h">
+      <Filter>core\good\good_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="weather.h">
+      <Filter>core\weather</Filter>
+    </ClInclude>
+    <ClInclude Include="weather_provider.h">
+      <Filter>core\weather\weather_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="book.h">
+      <Filter>core\book</Filter>
+    </ClInclude>
+    <ClInclude Include="book_provider.h">
+      <Filter>core\book\book_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="team.h">
+      <Filter>core\team</Filter>
+    </ClInclude>
+    <ClInclude Include="team_provider.h">
+      <Filter>core\team\team_provider</Filter>
+    </ClInclude>
+    <ClInclude Include="city.h">
+      <Filter>core\city</Filter>
+    </ClInclude>
+    <ClInclude Include="city_provider.h">
+      <Filter>core\city\city_provider</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="studentdata.csv">
+      <Filter>files</Filter>
+    </None>
+    <None Include="cardata.csv">
+      <Filter>files</Filter>
+    </None>
+    <None Include="gooddata.csv">
+      <Filter>files</Filter>
+    </None>
+    <None Include="weatherdata.csv">
+      <Filter>files</Filter>
+    </None>
+    <None Include="bookdata.csv">
+      <Filter>files</Filter>
+    </None>
+    <None Include="teamdata.csv">
+      <Filter>files</Filter>
+    </None>
+    <None Include="citydata.csv">
+      <Filter>files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
